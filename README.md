@@ -1,5 +1,7 @@
 # Your Personal JobFinder
 
+![media_](https://github.com/omer-here/jobFinder/assets/110015265/159ce8ab-f83d-4b3c-a7ed-2fd908614565)
+
 ## 📋 <a name="table">Table of Contents</a>
 
 1. 🤖 [Introduction](#introduction)
